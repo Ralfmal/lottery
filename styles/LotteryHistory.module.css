@@ -1,0 +1,29 @@
+.historyContainer {
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.historyTable {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.historyTable th,
+.historyTable td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+}
+
+.historyTable th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+.emptyState {
+  text-align: center;
+  color: #888;
+  padding: 20px;
+}
